@@ -25,7 +25,7 @@ Dvorak 状态时连按两次 LWin 键会切换为 QWERTY ；<br />
 QWERTY 状态是按 LWin 键会切换回 Dvorak。<br />
 LWin 键和 Space 键组合时保持原意，其他时候请使用 RWin 代替。
 
-### Qwerty2Dvorak2.ahk说明 ###
+### Qwerty2Dvorakv2.ahk说明 ###
 
 连按两下RCtrl在Qwerty和Dvorak之间切换，也可以通过在菜单栏直接单击图标切换。
 

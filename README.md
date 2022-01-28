@@ -6,7 +6,7 @@
 
 ## 下载 ##
 
-请见Release
+请见[Release](https://github.com/Zoupers/q2d/releases)
 
 ## 简介 ##
 

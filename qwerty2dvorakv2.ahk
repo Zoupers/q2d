@@ -43,7 +43,7 @@ MenuSuspend:
   ; Send {RControl}
   return
 
-~RControl up::
+*RControl up::
   Suspend Permit
   
   p := false
